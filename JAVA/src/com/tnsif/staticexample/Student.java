@@ -14,7 +14,7 @@ public class Student {
 		
 	}
     void display() {
-	System.out.println(rollno+""+name+"");
+	System.out.println(rollno+"",name+"");
 	
     }
 }

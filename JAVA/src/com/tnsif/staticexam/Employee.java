@@ -10,7 +10,7 @@ public class Employee {
 		
 	}
 	void display() {
-		System.out.println(edi+""+name+""+company)
+		System.out.println(edi+""+name+""+company);
 	}
 
 }
