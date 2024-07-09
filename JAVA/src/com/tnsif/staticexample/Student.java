@@ -1,20 +1,22 @@
 package com.tnsif.staticexample;
 
-public class Student {
+import javax.management.relation.RoleInfo;
+
+public class Student{
 	int rollno;
-	Static name="Bhagya";
-	static String college="sriindu";
+	static name="Bhagya";
+	static string college="sriindu";
 	static void change() {
 		college="CSE";
 		
 	}
-	Student(int r,String n){
+	Student(int r,string n){
 		rollno;
-		name;
+		name ;
 		
 	}
     void display() {
-	System.out.println(rollno+"",name+"");
+	System.out.println(rollno+""+name+""+college);
 	
     }
 }
