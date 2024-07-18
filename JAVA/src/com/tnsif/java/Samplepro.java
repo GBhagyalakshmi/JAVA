@@ -1,7 +1,7 @@
 package com.tnsif.java;
 
 public class Samplepro {
-	public void main void (String[] args) {
+	public static void main  (String[] args) {
 		System.out.println("Hello world");
 		}
 	}

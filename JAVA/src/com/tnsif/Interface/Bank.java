@@ -1,6 +1,6 @@
 package com.tnsif.Interface;
 
-public interface class Bank {
+public interface  Bank {
 	float rateofinterest();
 
 }

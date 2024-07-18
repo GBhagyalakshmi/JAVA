@@ -1,7 +1,7 @@
 package com.tnsif.Interface;
 
 public class SBI implements Bank {
-	@override
+	@Override
 	public float rateofinterest() {
 		return 3.5f;
 		

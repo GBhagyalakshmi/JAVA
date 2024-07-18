@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Customerdemo {
 	private static char[] Customer;
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter your name");
 		String name=sc.nextLine();
