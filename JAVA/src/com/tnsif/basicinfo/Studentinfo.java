@@ -11,7 +11,7 @@ public class Studentinfo {
 		String dept=sc.next();
 		System.out.println("Enter the register rollnumber : "+rollcall);
 		System.out.println("Enter the name of the student : "+name);
-		System.out.println("Enter the aadharno of the student : "+aadharno);
+		System.out.println("Enter the last six digits of aadharno of the student : "+aadharno);
 		System.out.println("Enter the department of the student : "+dept);
 
 
